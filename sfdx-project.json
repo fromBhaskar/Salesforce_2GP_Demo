@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "test2gp",
+      "versionDescription": ""
+    }
+  ],
+  "name": "2GPTest",
+  "namespace": "fielUploader",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "test2gp": "0HoGB000000Kz5b0AC",
+    "test2gp@0.1.0-1": "04tGB000003Z5oFYAS"
+  }
+}
